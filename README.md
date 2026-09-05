@@ -1,4 +1,4 @@
-# Awesome Edge Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Edge Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -94,9 +94,9 @@ Edge Computing is the practice of processing data closer to where it is generate
 
 ## Related Awesome Lists
 
-- **[Awesome IoT](https://github.com/awesomelistsio/awesome-iot)** – Internet of Things resources and tools.
-- **[Awesome Cloud Native](https://github.com/awesomelistsio/awesome-cloud-native)** – Cloud native architectures, including edge computing.
-- **[Awesome MLOps](https://github.com/awesomelistsio/awesome-mlops)** – Tools and resources for machine learning operations including edge deployments.
+- **[Awesome IoT](https://github.com/brandonhimpfen/awesome-iot)** – Internet of Things resources and tools.
+- **[Awesome Cloud Native](https://github.com/brandonhimpfen/awesome-cloud-native)** – Cloud native architectures, including edge computing.
+- **[Awesome MLOps](https://github.com/brandonhimpfen/awesome-mlops)** – Tools and resources for machine learning operations including edge deployments.
 
 ## Contribute
 
